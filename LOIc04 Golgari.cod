@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="CB03 Corpse Acolyte"/>
+        <card number="1" name="CB07 Pledge Cursed"/>
+        <card number="1" name="UM01 Fruitless Swarm"/>
+        <card number="1" name="UM01 Fruitless Swarm"/>
+        <card number="1" name="UG11 Necromantic Inclination"/>
+        <card number="1" name="UG04 Hero of the Wastes"/>
+        <card number="1" name="CB03 Corpse Acolyte"/>
+        <card number="1" name="CG11 Bad Turn"/>
+        <card number="1" name="CG03 Sweetbelly Humble"/>
+        <card number="1" name="UG02 Scavenging Warren"/>
+        <card number="1" name="UB14 Unforgivable Crossing"/>
+        <card number="1" name="UG08 Wendish Giant"/>
+        <card number="1" name="CG04 Leshy Greene"/>
+        <card number="1" name="CG12 Scout a Clearing"/>
+        <card number="1" name="CG09 Indrik Rhino"/>
+        <card number="1" name="CB09 Youth-Clinging"/>
+        <card number="1" name="CL04 Bog Ruins"/>
+        <card number="1" name="CG05 Druid of Fell Rites"/>
+        <card number="1" name="CB01 Vedmak Witch"/>
+        <card number="1" name="UM02 Spade Supplier"/>
+        <card number="1" name="CB05 Deathbed Operant"/>
+        <card number="1" name="UB06 Dread Executive"/>
+        <card number="1" name="UG01 Eerie Packbeast"/>
+        <card number="1" name="CL04 Bog Ruins"/>
+        <card number="1" name="RL03 Rulsan, Forgotten Grave"/>
+        <card number="1" name="CL04 Bog Ruins"/>
+        <card number="1" name="CB14 Stare at the Corpse"/>
+        <card number="1" name="LL03 Swamp"/>
+        <card number="6" name="Swamp"/>
+        <card number="6" name="Forest"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="CL02 Chapel Ruins"/>
+        <card number="1" name="LL04 Mountain"/>
+        <card number="1" name="CU07 East Wind Brother"/>
+        <card number="1" name="CL09 Cliffside Ruins"/>
+        <card number="1" name="LL01 Plains"/>
+    </zone>
+</cockatrice_deck>

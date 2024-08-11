@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="RU07 New Metal Vulture"/>
+        <card number="1" name="UR04 Demon of Failed Harvest"/>
+        <card number="1" name="UU05 Haunt of Buyan"/>
+        <card number="1" name="CR14 Hellblast"/>
+        <card number="1" name="CA01 Alatyr Mutt"/>
+        <card number="1" name="UU03 Unfamiliar Dockhand"/>
+        <card number="1" name="CU06 Faceless Hexmage"/>
+        <card number="1" name="CU09 Faceless Mourner"/>
+        <card number="1" name="CU01 Vicious Pixie"/>
+        <card number="1" name="UU13 Gravechill"/>
+        <card number="1" name="UU03 Unfamiliar Dockhand"/>
+        <card number="1" name="CR02 Metal Cadaver"/>
+        <card number="1" name="CR06 Bishops Crimson"/>
+        <card number="1" name="RR04 Torment Insect"/>
+        <card number="1" name="CR08 Blade of the Coven"/>
+        <card number="1" name="CR10 Harness Your Bloodline"/>
+        <card number="1" name="CL05 Islet Ruins"/>
+        <card number="1" name="CR13 Pick at the Earth"/>
+        <card number="1" name="CR06 Bishops Crimson"/>
+        <card number="1" name="UR11 God-Corpse Cremation"/>
+        <card number="1" name="RU06 North River's Monster"/>
+        <card number="1" name="UU14 Solitary Mind"/>
+        <card number="1" name="CA01 Alatyr Mutt"/>
+        <card number="1" name="RL07 Gravetouched Landscape"/>
+        <card number="1" name="CU02 Doomed Mariners"/>
+        <card number="1" name="CL05 Islet Ruins"/>
+        <card number="7" name="Island"/>
+        <card number="7" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="LL02 Island"/>
+        <card number="1" name="UM02 Seahorse"/>
+        <card number="1" name="CL10 Thicket Ruins"/>
+        <card number="1" name="CL02 Chapel Ruins"/>
+        <card number="1" name="LL04 Mountain"/>
+        <card number="1" name="CL02 Chapel Ruins"/>
+        <card number="1" name="LL02 Island"/>
+    </zone>
+</cockatrice_deck>
