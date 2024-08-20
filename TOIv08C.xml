@@ -1205,23 +1205,6 @@ Passing 6GG (You may cast this card from your graveyard for its passing cost if 
 As long as you desecrated this turn, Demon of Panicked Screaming has vigilance and lifelink. (You desecrate if a card in your graveyard is cast, activated, or targeted by you.)</text>
     </card>
     <card>
-      <name>UW06 Molar Raptor</name>
-      <set rarity="uncommon">TOI</set>
-      <prop>
-        <colors>M</colors>
-        <manacost>3W // R</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Bird Horror  // Sorcery - Rite </type>
-        <maintype>Creature</maintype>
-    <pt>3/3</pt>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Flying
-Whenever you sacrifice one or more permanents, Molar Raptor gets +1/+0 until end of turn.
---- 
-Creatures you control get +1/+0 and haste until end of turn. (Sacrifice an artifact, enchantment, or token to cast this creature’s Rite from the field, and only once.)</text>
-    </card>
-    <card>
       <name>UW07 Spirit of Human Possession</name>
       <set rarity="uncommon">TOI</set>
       <prop>
@@ -3919,8 +3902,22 @@ Whenever an opponent casts a spell with the same name as a permanent on the batt
       <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>[+1]: Create an Omen token.
-[-1]: Another target nonland permanent phases out. 
-[-3]: Target enchantment you control becomes a 4/4 Spirit enchantment creature with flying, hexproof and deathtouch.
-Whenever one or more permanent phase in, you may cast Vronos, Revenant from your graveyard. If you do, it enters with a finality counter on it.</text>
+      <text>At the beginning of your upkeep, create an Omen token. (Its an enchantment with “2, Sacrifice this: Surveil 2.”)
+[+1]: Another target nonland permanent phases out. 
+[-3]: Target enchantment you control becomes a 4/4 Spirit enchantment creature with flying, hexproof and deathtouch.</text>
+    </card>
+    <card>
+      <name>UW06 Molar Raptor</name>
+      <set rarity="uncommon">TOI</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you sacrifice one or more permanents, Molar Raptor gets +1/+0 until end of turn.</text>
     </card>

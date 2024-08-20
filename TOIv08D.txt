@@ -5,7 +5,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW02 Eerie Strangers.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW02 Eerie Strangers.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RW01 Walk to Extinction.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RW01 Walk to Extinction.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW01 Doomed Passenger.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW01 Doomed Passenger.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW02 Sister of the Mass.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW02 Sister of the Mass.png"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact — Trinket ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW11 Corpse Knight Contract.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW11 Corpse Knight Contract.png"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Bird Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW04 Disfigured Yearling.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW04 Disfigured Yearling.png"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW05 Miner Adept.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW05 Miner Adept.png"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW03 Blade Naturalist.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW03 Blade Naturalist.png"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW06 Student of the Old Way.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW06 Student of the Old Way.png"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Artifact Creature — Construct  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW07 Scout of Alatyr.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW07 Scout of Alatyr.png"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW08 Spirit of Faded Dreams.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW08 Spirit of Faded Dreams.png"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW09 Memory of the Many.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW09 Memory of the Many.png"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Bird Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW10 Knight of High Peaks.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW10 Knight of High Peaks.png"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW12 Pledge of Valor.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW12 Pledge of Valor.png"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW10 Mass Scorn.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW10 Mass Scorn.png"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW14 Grim Confrontation.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW14 Grim Confrontation.png"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW15 Bedtime Whispers.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW15 Bedtime Whispers.png"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Faerie Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU01 Vicious Pixie.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU01 Vicious Pixie.png"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU02 Doomed Mariners.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU02 Doomed Mariners.png"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Pirate Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU05 Haunt of Buyan.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU05 Haunt of Buyan.png"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU04 Buyan Diver.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU04 Buyan Diver.png"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Merfolk Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU06 Faceless Hexmage.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU06 Faceless Hexmage.png"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU07 East Wind Brother.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU07 East Wind Brother.png"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Merfolk Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU03 Serenity Seawitch.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU03 Serenity Seawitch.png"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Crab Giant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU08 Awakened Crustacean.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU08 Awakened Crustacean.png"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Merfolk Warlock Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU09 Faceless Mourner.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU09 Faceless Mourner.png"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU10 Muffle.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU10 Muffle.png"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU11 Soul Read.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU11 Soul Read.png"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU12 Mind Choir.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU12 Mind Choir.png"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU13 Pactshift.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU13 Pactshift.png"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU12 Ghastly Interference.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU12 Ghastly Interference.png"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU15 Anhelli.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU15 Anhelli.png"
 	        }
 	    },
 	    {
@@ -293,7 +293,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB03 Corpse Acolyte.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB03 Corpse Acolyte.png"
 	        }
 	    },
 	    {
@@ -302,7 +302,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Rat Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB06 Plague Bearer.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB06 Plague Bearer.png"
 	        }
 	    },
 	    {
@@ -311,7 +311,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Dog ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB01 Morguehound.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB01 Morguehound.png"
 	        }
 	    },
 	    {
@@ -320,7 +320,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Skeleton Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB04 Marrow Malevolent.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB04 Marrow Malevolent.png"
 	        }
 	    },
 	    {
@@ -329,7 +329,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB07 Pledge Cursed.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB07 Pledge Cursed.png"
 	        }
 	    },
 	    {
@@ -338,7 +338,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Skeleton Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB09 Youth-Clinging.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB09 Youth-Clinging.png"
 	        }
 	    },
 	    {
@@ -347,7 +347,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Skeleton Dinosaur ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB06 Dread Executive.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB06 Dread Executive.png"
 	        }
 	    },
 	    {
@@ -356,7 +356,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Mutant Human  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB05 Deathbed Operant.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB05 Deathbed Operant.png"
 	        }
 	    },
 	    {
@@ -365,7 +365,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Wolf Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB08 Canine Stalker.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB08 Canine Stalker.png"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB10 Strength to Unrest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB10 Strength to Unrest.png"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB11 Flechette.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB11 Flechette.png"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB12 Midnight Assault.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB12 Midnight Assault.png"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB13 Vanquish the Unholy.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB13 Vanquish the Unholy.png"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB14 Stare at the Corpse.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB14 Stare at the Corpse.png"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB12 Dig up the Grave.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB12 Dig up the Grave.png"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR01 Botched Operant.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR01 Botched Operant.png"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR02 Metal Cadaver.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR02 Metal Cadaver.png"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Warlock  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR03 Witch Blade Student.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR03 Witch Blade Student.png"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact Creature — Construct Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR04 Alatyr Simulacrum.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR04 Alatyr Simulacrum.png"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Werewolf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR05 Tainted Bloodline.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR05 Tainted Bloodline.png"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Warlock  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR06 Bishops Crimson.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR06 Bishops Crimson.png"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR07 Tome Tracker.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR07 Tome Tracker.png"
 	        }
 	    },
 	    {
@@ -491,7 +491,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR08 Blade of the Coven.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR08 Blade of the Coven.png"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Artifact Creature — Spider Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR09 Hexapod Sentry.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR09 Hexapod Sentry.png"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR10 Harness Your Bloodline.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR10 Harness Your Bloodline.png"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR11 March Into Fire.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR11 March Into Fire.png"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR12 Raze the Effigy.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR12 Raze the Effigy.png"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR13 Pick at the Earth.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR13 Pick at the Earth.png"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR14 Hellblast.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR14 Hellblast.png"
 	        }
 	    },
 	    {
@@ -554,7 +554,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR09 Unholy Pact.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR09 Unholy Pact.png"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Fungus ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG01 Bloodcap Colony.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG01 Bloodcap Colony.png"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG02 Dreni Inquisitor.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG02 Dreni Inquisitor.png"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Spirit Archer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG03 Sweetbelly Humble.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG03 Sweetbelly Humble.png"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Beast Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG08 Chort Sap.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG08 Chort Sap.png"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG04 Leshy Greene.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG04 Leshy Greene.png"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG05 Druid of Fell Rites.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG05 Druid of Fell Rites.png"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG10 Gravebeast Sighting.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG10 Gravebeast Sighting.png"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Rhino ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG09 Indrik Rhino.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG09 Indrik Rhino.png"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Bat Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG07 Blind Balladist.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG07 Blind Balladist.png"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG14 Return to Nature.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG14 Return to Nature.png"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG11 Bad Turn.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG11 Bad Turn.png"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG12 Scout a Clearing.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG12 Scout a Clearing.png"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG13 Path to Belovode.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG13 Path to Belovode.png"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Creature — Spirit Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG06 Cemetery Hags.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG06 Cemetery Hags.png"
 	        }
 	    },
 	    {
@@ -689,7 +689,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG14 Druidspell.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG14 Druidspell.png"
 	        }
 	    },
 	    {
@@ -698,7 +698,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW01 Wandering Faceless.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW01 Wandering Faceless.png"
 	        }
 	    },
 	    {
@@ -707,7 +707,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW04 Mass Justicar.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW04 Mass Justicar.png"
 	        }
 	    },
 	    {
@@ -716,7 +716,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW03 Grassfield Hetman.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW03 Grassfield Hetman.png"
 	        }
 	    },
 	    {
@@ -725,28 +725,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW05 Demon of Panicked Screaming.png"
-	        }
-	    },
-	    {
-	        "name": "UW06 Molar Raptor",
-	        "mana_cost": "{3}{W}",
-	        "type": "Creature — Bird Horror ",
-	        "image_uris": {
-	            "en": "UW06 Molar Raptor.png"
-	        },
-	        "printed names": {
-	            "en": "UW06 Molar Raptor"
-	        },
-	        "back": {
-	            "name": "Feathered Frenzy",
-	            "printed_names": {
-	                "en": "Feathered Frenzy"
-	            },
-	            "image_uris": {
-	                "en": "Feathered Frenzy.png"
-	            },
-	            "type": "Sorcery — Rite "
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW05 Demon of Panicked Screaming.png"
 	        }
 	    },
 	    {
@@ -755,7 +734,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW07 Spirit of Human Possession.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW07 Spirit of Human Possession.png"
 	        }
 	    },
 	    {
@@ -764,7 +743,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW08 Demon of Hollow Crypts.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW08 Demon of Hollow Crypts.png"
 	        }
 	    },
 	    {
@@ -773,7 +752,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW09 Walk Holy Ground.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW09 Walk Holy Ground.png"
 	        }
 	    },
 	    {
@@ -782,7 +761,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CW13 Eerie Relic.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CW13 Eerie Relic.png"
 	        }
 	    },
 	    {
@@ -791,7 +770,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW11 Eerie Arrest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW11 Eerie Arrest.png"
 	        }
 	    },
 	    {
@@ -800,7 +779,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Merfolk Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU04 Rusalka Siren.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU04 Rusalka Siren.png"
 	        }
 	    },
 	    {
@@ -809,7 +788,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Harpy Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU02 Watching Alkonost.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU02 Watching Alkonost.png"
 	        }
 	    },
 	    {
@@ -818,7 +797,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU03 Unfamiliar Dockhand.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU03 Unfamiliar Dockhand.png"
 	        }
 	    },
 	    {
@@ -827,7 +806,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Zombie Shark ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU07 Corpse Shark.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU07 Corpse Shark.png"
 	        }
 	    },
 	    {
@@ -836,7 +815,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Spirit Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU08 Spirit of the Cold Grave.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU08 Spirit of the Cold Grave.png"
 	        }
 	    },
 	    {
@@ -845,7 +824,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU06 Demon of Cold Apathy.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU06 Demon of Cold Apathy.png"
 	        }
 	    },
 	    {
@@ -854,7 +833,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU01 Vedmak Starseeker.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU01 Vedmak Starseeker.png"
 	        }
 	    },
 	    {
@@ -863,7 +842,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU05 Jaunt Drakes.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU05 Jaunt Drakes.png"
 	        }
 	    },
 	    {
@@ -872,7 +851,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU09 Emergent Haunting.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU09 Emergent Haunting.png"
 	        }
 	    },
 	    {
@@ -881,7 +860,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU10 Billow.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU10 Billow.png"
 	        }
 	    },
 	    {
@@ -890,7 +869,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU11 Walk Into History.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU11 Walk Into History.png"
 	        }
 	    },
 	    {
@@ -899,7 +878,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB01 Vedmak Witch.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB01 Vedmak Witch.png"
 	        }
 	    },
 	    {
@@ -908,7 +887,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Mutant Rat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB02 Deformed Rat.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB02 Deformed Rat.png"
 	        }
 	    },
 	    {
@@ -917,7 +896,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Zombie Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB02 Corpse Hunter.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB02 Corpse Hunter.png"
 	        }
 	    },
 	    {
@@ -926,7 +905,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB05 Face Stitcher.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB05 Face Stitcher.png"
 	        }
 	    },
 	    {
@@ -935,7 +914,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Dog Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB03 Wickerhound.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB03 Wickerhound.png"
 	        }
 	    },
 	    {
@@ -944,7 +923,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Spirit Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB04 Grim Attendant.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB04 Grim Attendant.png"
 	        }
 	    },
 	    {
@@ -953,7 +932,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Zombie Giant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB08 Graveyard Giant.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB08 Graveyard Giant.png"
 	        }
 	    },
 	    {
@@ -962,7 +941,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB07 Corpse Practitioner.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB07 Corpse Practitioner.png"
 	        }
 	    },
 	    {
@@ -971,7 +950,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB09 Knight's Fell.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB09 Knight's Fell.png"
 	        }
 	    },
 	    {
@@ -980,7 +959,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB10 Pelt with Bats.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB10 Pelt with Bats.png"
 	        }
 	    },
 	    {
@@ -989,7 +968,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB11 Soultide Sting.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB11 Soultide Sting.png"
 	        }
 	    },
 	    {
@@ -998,7 +977,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR01 Vedmak Outcast.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR01 Vedmak Outcast.png"
 	        }
 	    },
 	    {
@@ -1007,7 +986,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR02 Hysteria Seer.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR02 Hysteria Seer.png"
 	        }
 	    },
 	    {
@@ -1016,7 +995,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR03 Graveside Merchant.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR03 Graveside Merchant.png"
 	        }
 	    },
 	    {
@@ -1025,7 +1004,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR04 Demon of Failed Harvest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR04 Demon of Failed Harvest.png"
 	        }
 	    },
 	    {
@@ -1034,7 +1013,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Warlock Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR05 Alatyr Vedmak.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR05 Alatyr Vedmak.png"
 	        }
 	    },
 	    {
@@ -1043,7 +1022,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR06 Marrow Priest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR06 Marrow Priest.png"
 	        }
 	    },
 	    {
@@ -1052,7 +1031,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR07 Demon of Perverse Rites.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR07 Demon of Perverse Rites.png"
 	        }
 	    },
 	    {
@@ -1061,7 +1040,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR08 Wicker Coven.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR08 Wicker Coven.png"
 	        }
 	    },
 	    {
@@ -1070,7 +1049,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CR15 Unholy Communion.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CR15 Unholy Communion.png"
 	        }
 	    },
 	    {
@@ -1079,7 +1058,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR10 Sabbath Gathering.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR10 Sabbath Gathering.png"
 	        }
 	    },
 	    {
@@ -1088,7 +1067,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR11 God-Corpse Cremation.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR11 God-Corpse Cremation.png"
 	        }
 	    },
 	    {
@@ -1097,7 +1076,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Beast  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG01 Eerie Packbeast.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG01 Eerie Packbeast.png"
 	        }
 	    },
 	    {
@@ -1106,7 +1085,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Rabbit Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG02 Scavenging Warren.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG02 Scavenging Warren.png"
 	        }
 	    },
 	    {
@@ -1115,7 +1094,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Creature — Human Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG04 Hero of the Wastes.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG04 Hero of the Wastes.png"
 	        }
 	    },
 	    {
@@ -1124,7 +1103,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Cyclops Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG07 Dreni Ascetic.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG07 Dreni Ascetic.png"
 	        }
 	    },
 	    {
@@ -1133,7 +1112,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG06 Molfar Nomad.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG06 Molfar Nomad.png"
 	        }
 	    },
 	    {
@@ -1142,7 +1121,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG05 Spirit of Broken Homes.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG05 Spirit of Broken Homes.png"
 	        }
 	    },
 	    {
@@ -1151,7 +1130,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Shapeshifter Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG03 Faceless Ancient.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG03 Faceless Ancient.png"
 	        }
 	    },
 	    {
@@ -1160,7 +1139,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Giant Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG08 Wendish Giant.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG08 Wendish Giant.png"
 	        }
 	    },
 	    {
@@ -1169,7 +1148,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG09 Sentient Outbreak.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG09 Sentient Outbreak.png"
 	        }
 	    },
 	    {
@@ -1178,7 +1157,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG10 Reap and Till.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG10 Reap and Till.png"
 	        }
 	    },
 	    {
@@ -1187,7 +1166,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG11 Necromantic Inclination.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG11 Necromantic Inclination.png"
 	        }
 	    },
 	    {
@@ -1196,7 +1175,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Creature — Vampire Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM02 Mass Knight.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM02 Mass Knight.png"
 	        }
 	    },
 	    {
@@ -1205,7 +1184,7 @@
 	        "mana_cost": "{U}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM01 Sabbath Circle.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM01 Sabbath Circle.png"
 	        }
 	    },
 	    {
@@ -1214,7 +1193,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Creature — Satyr Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM01 Spirit of Autumn.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM01 Spirit of Autumn.png"
 	        }
 	    },
 	    {
@@ -1223,7 +1202,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM02 Idol Merchant.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM02 Idol Merchant.png"
 	        }
 	    },
 	    {
@@ -1232,7 +1211,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Horse Fish ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM02 Seahorse.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM02 Seahorse.png"
 	        }
 	    },
 	    {
@@ -1241,7 +1220,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM01 Bishop of the Mass.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM01 Bishop of the Mass.png"
 	        }
 	    },
 	    {
@@ -1250,7 +1229,7 @@
 	        "mana_cost": "{U}{R}",
 	        "type": "Legendary Creature — Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM01 Bela, Witch Apprentice.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM01 Bela, Witch Apprentice.png"
 	        }
 	    },
 	    {
@@ -1259,7 +1238,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM01 Fruitless Swarm.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM01 Fruitless Swarm.png"
 	        }
 	    },
 	    {
@@ -1268,7 +1247,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Legendary Creature — Bird Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM01 The Owl Man.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM01 The Owl Man.png"
 	        }
 	    },
 	    {
@@ -1277,7 +1256,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Frog Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM01 Rooftop Visitor.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM01 Rooftop Visitor.png"
 	        }
 	    },
 	    {
@@ -1286,7 +1265,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM02 Vedmak Sister.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM02 Vedmak Sister.png"
 	        }
 	    },
 	    {
@@ -1295,7 +1274,7 @@
 	        "mana_cost": "{G}{U}{R}",
 	        "type": "Legendary Creature — Warlock Druid Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM01 The High Court.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM01 The High Court.png"
 	        }
 	    },
 	    {
@@ -1304,7 +1283,7 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Legendary Creature — Snake Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM01 Soth, Unrivaled.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM01 Soth, Unrivaled.png"
 	        }
 	    },
 	    {
@@ -1313,7 +1292,7 @@
 	        "mana_cost": "{1}{B}{G}",
 	        "type": "Legendary Creature — Zombie Elf  Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM02 Naldan, Lichdruid.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM02 Naldan, Lichdruid.png"
 	        }
 	    },
 	    {
@@ -1322,7 +1301,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Legendary Creature — Skeleton Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM01 Zhiva, Wisptender.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM01 Zhiva, Wisptender.png"
 	        }
 	    },
 	    {
@@ -1331,7 +1310,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CB15 Bad Omen.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CB15 Bad Omen.png"
 	        }
 	    },
 	    {
@@ -1340,7 +1319,7 @@
 	        "mana_cost": "{3}{B}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/MM01 Lichraise.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/MM01 Lichraise.png"
 	        }
 	    },
 	    {
@@ -1349,7 +1328,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL01 Buried Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL01 Buried Ruins.png"
 	        }
 	    },
 	    {
@@ -1358,7 +1337,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL02 Chapel Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL02 Chapel Ruins.png"
 	        }
 	    },
 	    {
@@ -1367,7 +1346,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL03 Plateau Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL03 Plateau Ruins.png"
 	        }
 	    },
 	    {
@@ -1376,7 +1355,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL04 Bog Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL04 Bog Ruins.png"
 	        }
 	    },
 	    {
@@ -1385,7 +1364,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL05 Islet Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL05 Islet Ruins.png"
 	        }
 	    },
 	    {
@@ -1394,7 +1373,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL06 Lagoon Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL06 Lagoon Ruins.png"
 	        }
 	    },
 	    {
@@ -1403,7 +1382,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL07 Beachfront Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL07 Beachfront Ruins.png"
 	        }
 	    },
 	    {
@@ -1412,7 +1391,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL08 Marsh Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL08 Marsh Ruins.png"
 	        }
 	    },
 	    {
@@ -1421,7 +1400,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL09 Cliffside Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL09 Cliffside Ruins.png"
 	        }
 	    },
 	    {
@@ -1430,7 +1409,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL10 Thicket Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL10 Thicket Ruins.png"
 	        }
 	    },
 	    {
@@ -1439,7 +1418,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL11 Monument Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL11 Monument Ruins.png"
 	        }
 	    },
 	    {
@@ -1448,7 +1427,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Dog Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CA01 Alatyr Mutt.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CA01 Alatyr Mutt.png"
 	        }
 	    },
 	    {
@@ -1457,7 +1436,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CA02 Alatyr Cohort.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CA02 Alatyr Cohort.png"
 	        }
 	    },
 	    {
@@ -1466,7 +1445,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CA03 Ancient Model.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CA03 Ancient Model.png"
 	        }
 	    },
 	    {
@@ -1475,7 +1454,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CA04 Statue to Ruin.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CA04 Statue to Ruin.png"
 	        }
 	    },
 	    {
@@ -1484,7 +1463,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/LL05 Forest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/LL05 Forest.png"
 	        }
 	    },
 	    {
@@ -1493,7 +1472,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/LL02 Island.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/LL02 Island.png"
 	        }
 	    },
 	    {
@@ -1502,7 +1481,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/LL03 Swamp.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/LL03 Swamp.png"
 	        }
 	    },
 	    {
@@ -1511,7 +1490,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/LL04 Mountain.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/LL04 Mountain.png"
 	        }
 	    },
 	    {
@@ -1520,7 +1499,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/LL01 Plains.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/LL01 Plains.png"
 	        }
 	    },
 	    {
@@ -1529,7 +1508,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CU14 Stop Cold.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CU14 Stop Cold.png"
 	        }
 	    },
 	    {
@@ -1538,7 +1517,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cemetery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CL012 Ruins Grotto.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CL012 Ruins Grotto.png"
 	        }
 	    },
 	    {
@@ -1547,7 +1526,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Creature — Nightmare Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM01 Shadow of Bitter Chill.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM01 Shadow of Bitter Chill.png"
 	        }
 	    },
 	    {
@@ -1556,7 +1535,7 @@
 	        "mana_cost": "{2}{B}{R}",
 	        "type": "Legendary Creature — Warlock Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM01 Flins, Necroartificer.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM01 Flins, Necroartificer.png"
 	        }
 	    },
 	    {
@@ -1565,7 +1544,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM01 Witchfire Familiar.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM01 Witchfire Familiar.png"
 	        }
 	    },
 	    {
@@ -1574,7 +1553,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Creature — Spirit Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM01 Priests of the Grove.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM01 Priests of the Grove.png"
 	        }
 	    },
 	    {
@@ -1583,7 +1562,7 @@
 	        "mana_cost": "{2}{W}{U}",
 	        "type": "Legendary Creature — Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM01 Ceig, Alatyr Surgeon.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM01 Ceig, Alatyr Surgeon.png"
 	        }
 	    },
 	    {
@@ -1592,7 +1571,7 @@
 	        "mana_cost": "{1}{B}{G}",
 	        "type": "Creature — Human Mutant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM02 Corpse Informant.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM02 Corpse Informant.png"
 	        }
 	    },
 	    {
@@ -1601,7 +1580,7 @@
 	        "mana_cost": "{4}{U}{B}",
 	        "type": "Legendary Creature — Fish Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM02 Quill, Cloud Shaper.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM02 Quill, Cloud Shaper.png"
 	        }
 	    },
 	    {
@@ -1610,7 +1589,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM02 Oath of the Grove.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM02 Oath of the Grove.png"
 	        }
 	    },
 	    {
@@ -1619,7 +1598,7 @@
 	        "mana_cost": "{X}{R}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM01 Scrape the Desert.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM01 Scrape the Desert.png"
 	        }
 	    },
 	    {
@@ -1628,7 +1607,7 @@
 	        "mana_cost": "{3}{R}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM02 Enter the Witchwood.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM02 Enter the Witchwood.png"
 	        }
 	    },
 	    {
@@ -1637,7 +1616,7 @@
 	        "mana_cost": "{4}{B}{R}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM02 Demon of Ten Faces.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM02 Demon of Ten Faces.png"
 	        }
 	    },
 	    {
@@ -1646,7 +1625,7 @@
 	        "mana_cost": "{2}{W}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UM02 Haunt.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UM02 Haunt.png"
 	        }
 	    },
 	    {
@@ -1655,7 +1634,7 @@
 	        "mana_cost": "",
 	        "type": "Token Enchantment — Saga  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/Funeral.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/Funeral.png"
 	        }
 	    },
 	    {
@@ -1664,7 +1643,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RG04 Behind the Door.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RG04 Behind the Door.png"
 	        }
 	    },
 	    {
@@ -1673,7 +1652,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG13 Animate the Marsh.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG13 Animate the Marsh.png"
 	        }
 	    },
 	    {
@@ -1682,7 +1661,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/CG15 Weave Earth.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/CG15 Weave Earth.png"
 	        }
 	    },
 	    {
@@ -1691,7 +1670,7 @@
 	        "mana_cost": "",
 	        "type": "Legendary Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RL01 Lada, Forgotten Battle.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RL01 Lada, Forgotten Battle.png"
 	        }
 	    },
 	    {
@@ -1700,7 +1679,7 @@
 	        "mana_cost": "",
 	        "type": "Legendary Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RL02 Krodo, Forgotten Lore.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RL02 Krodo, Forgotten Lore.png"
 	        }
 	    },
 	    {
@@ -1709,7 +1688,7 @@
 	        "mana_cost": "",
 	        "type": "Legendary Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RL03 Rulsan, Forgotten Grave.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RL03 Rulsan, Forgotten Grave.png"
 	        }
 	    },
 	    {
@@ -1718,7 +1697,7 @@
 	        "mana_cost": "",
 	        "type": "Legendary Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RL04 Yesha, Forgotten Fire.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RL04 Yesha, Forgotten Fire.png"
 	        }
 	    },
 	    {
@@ -1727,7 +1706,7 @@
 	        "mana_cost": "",
 	        "type": "Legendary Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RL05 Kurgan, Forgotten Forest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RL05 Kurgan, Forgotten Forest.png"
 	        }
 	    },
 	    {
@@ -1736,7 +1715,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Insect Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RG01 Gravegrass Whelp.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RG01 Gravegrass Whelp.png"
 	        }
 	    },
 	    {
@@ -1745,7 +1724,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Insect Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RR01 Bloodfire Gnat.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RR01 Bloodfire Gnat.png"
 	        }
 	    },
 	    {
@@ -1754,7 +1733,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UG12 Backed into a Corner.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UG12 Backed into a Corner.png"
 	        }
 	    },
 	    {
@@ -1763,7 +1742,7 @@
 	        "mana_cost": "{X}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU13 Gravechill.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU13 Gravechill.png"
 	        }
 	    },
 	    {
@@ -1772,7 +1751,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UU14 Solitary Mind.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UU14 Solitary Mind.png"
 	        }
 	    },
 	    {
@@ -1781,7 +1760,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR12 Vedmak Hex.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR12 Vedmak Hex.png"
 	        }
 	    },
 	    {
@@ -1790,7 +1769,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR13 Brave the Night.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR13 Brave the Night.png"
 	        }
 	    },
 	    {
@@ -1799,7 +1778,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UR14 Witchbolt.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UR14 Witchbolt.png"
 	        }
 	    },
 	    {
@@ -1808,7 +1787,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Trinket ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/Trinket.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/Trinket.png"
 	        }
 	    },
 	    {
@@ -1817,7 +1796,7 @@
 	        "mana_cost": "",
 	        "type": "Token Enchantment — Omen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/Omen.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/Omen.png"
 	        }
 	    },
 	    {
@@ -1826,7 +1805,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW12 Gorebird Calling.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW12 Gorebird Calling.png"
 	        }
 	    },
 	    {
@@ -1835,7 +1814,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW13 Festering Statue.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW13 Festering Statue.png"
 	        }
 	    },
 	    {
@@ -1844,7 +1823,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UW14 Cherub Touched.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW14 Cherub Touched.png"
 	        }
 	    },
 	    {
@@ -1853,7 +1832,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB13 Undead Outbreak.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB13 Undead Outbreak.png"
 	        }
 	    },
 	    {
@@ -1862,7 +1841,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UB14 Unforgivable Crossing.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UB14 Unforgivable Crossing.png"
 	        }
 	    },
 	    {
@@ -1871,7 +1850,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UA06 Artifact of Ruin.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UA06 Artifact of Ruin.png"
 	        }
 	    },
 	    {
@@ -1880,7 +1859,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UA05 Gilded Pinions.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UA05 Gilded Pinions.png"
 	        }
 	    },
 	    {
@@ -1889,7 +1868,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UA08 Vile Tomb.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UA08 Vile Tomb.png"
 	        }
 	    },
 	    {
@@ -1898,7 +1877,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UA04 Rickety Carriage.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UA04 Rickety Carriage.png"
 	        }
 	    },
 	    {
@@ -1907,7 +1886,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UA03 Alatyr Perfect.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UA03 Alatyr Perfect.png"
 	        }
 	    },
 	    {
@@ -1916,7 +1895,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UA01 Idol of Hope.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UA01 Idol of Hope.png"
 	        }
 	    },
 	    {
@@ -1925,7 +1904,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Creature — Gargoyle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UA02 Wetstone Gargoyle.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UA02 Wetstone Gargoyle.png"
 	        }
 	    },
 	    {
@@ -1934,7 +1913,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/UA07 Deathbed.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UA07 Deathbed.png"
 	        }
 	    },
 	    {
@@ -1943,7 +1922,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Harpy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RW04 Gamayun.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RW04 Gamayun.png"
 	        }
 	    },
 	    {
@@ -1952,7 +1931,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RU01 Demon of Weakened Resolve.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RU01 Demon of Weakened Resolve.png"
 	        }
 	    },
 	    {
@@ -1961,7 +1940,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Spider ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RG03 Manfisher Spider.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RG03 Manfisher Spider.png"
 	        }
 	    },
 	    {
@@ -1970,7 +1949,7 @@
 	        "mana_cost": "{B/G}",
 	        "type": "Creature — Skeleton Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM03 Vedmak Death Priest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM03 Vedmak Death Priest.png"
 	        }
 	    },
 	    {
@@ -1979,7 +1958,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RG02 Jedza of North Forest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RG02 Jedza of North Forest.png"
 	        }
 	    },
 	    {
@@ -1988,7 +1967,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Legendary Creature — Mutant Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/MU01 Koschei, the Deathless.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/MU01 Koschei, the Deathless.png"
 	        }
 	    },
 	    {
@@ -1997,7 +1976,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RW03 Gorebird Nest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RW03 Gorebird Nest.png"
 	        }
 	    },
 	    {
@@ -2006,7 +1985,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RL07 Gravetouched Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RL07 Gravetouched Landscape.png"
 	        }
 	    },
 	    {
@@ -2015,7 +1994,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RL06 The North Forest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RL06 The North Forest.png"
 	        }
 	    },
 	    {
@@ -2024,7 +2003,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Legendary Creature — Treefolk Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RG05 Demon of The Original Sin.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RG05 Demon of The Original Sin.png"
 	        }
 	    },
 	    {
@@ -2033,7 +2012,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RB01 Lost Idol.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RB01 Lost Idol.png"
 	        }
 	    },
 	    {
@@ -2042,7 +2021,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RG06 Slumbering Cliffside.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RG06 Slumbering Cliffside.png"
 	        }
 	    },
 	    {
@@ -2051,7 +2030,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RR02 Dormant Mountain.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RR02 Dormant Mountain.png"
 	        }
 	    },
 	    {
@@ -2060,7 +2039,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RG07 Loamspeak.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RG07 Loamspeak.png"
 	        }
 	    },
 	    {
@@ -2069,7 +2048,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Zombie Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RU02 Draugr of the Final Word.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RU02 Draugr of the Final Word.png"
 	        }
 	    },
 	    {
@@ -2078,7 +2057,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RU04 Driven Out.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RU04 Driven Out.png"
 	        }
 	    },
 	    {
@@ -2087,7 +2066,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RU05 Koschei's Cunning.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RU05 Koschei's Cunning.png"
 	        }
 	    },
 	    {
@@ -2096,7 +2075,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Fish Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RU06 North River's Monster.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RU06 North River's Monster.png"
 	        }
 	    },
 	    {
@@ -2105,7 +2084,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Creature — Satyr Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM02 Spirit of First Snow.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM02 Spirit of First Snow.png"
 	        }
 	    },
 	    {
@@ -2114,7 +2093,7 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Elemental Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/MU02 Spirit of Restless Storm.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/MU02 Spirit of Restless Storm.png"
 	        }
 	    },
 	    {
@@ -2123,7 +2102,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Satyr Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RR03 Lost God Occultist.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RR03 Lost God Occultist.png"
 	        }
 	    },
 	    {
@@ -2132,7 +2111,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Insect Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RR04 Torment Insect.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RR04 Torment Insect.png"
 	        }
 	    },
 	    {
@@ -2141,7 +2120,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Bird Hydra ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RR05 Hellraiser Bird.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RR05 Hellraiser Bird.png"
 	        }
 	    },
 	    {
@@ -2150,7 +2129,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RB02 Demon of Lost Teeth.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RB02 Demon of Lost Teeth.png"
 	        }
 	    },
 	    {
@@ -2159,7 +2138,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RB03 Third Rite.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RB03 Third Rite.png"
 	        }
 	    },
 	    {
@@ -2168,7 +2147,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Zombie Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RB04 Candlekeeper Servant.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RB04 Candlekeeper Servant.png"
 	        }
 	    },
 	    {
@@ -2177,7 +2156,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Bird Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RW05 Gorebird Elite.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RW05 Gorebird Elite.png"
 	        }
 	    },
 	    {
@@ -2186,7 +2165,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RB05 Cycle of the Damned.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RB05 Cycle of the Damned.png"
 	        }
 	    },
 	    {
@@ -2195,7 +2174,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RW06 Wastes Historian.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RW06 Wastes Historian.png"
 	        }
 	    },
 	    {
@@ -2204,7 +2183,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Faerie Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RW07 High Court Ambassador.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RW07 High Court Ambassador.png"
 	        }
 	    },
 	    {
@@ -2213,7 +2192,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact Creature — Bird Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RU07 New Metal Vulture.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RU07 New Metal Vulture.png"
 	        }
 	    },
 	    {
@@ -2222,7 +2201,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RR06 Raptor Outbreak.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RR06 Raptor Outbreak.png"
 	        }
 	    },
 	    {
@@ -2231,7 +2210,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Elk Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RR07 Spirit of Ashen Scents.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RR07 Spirit of Ashen Scents.png"
 	        }
 	    },
 	    {
@@ -2240,7 +2219,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RB06 The Local Blightmaker.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RB06 The Local Blightmaker.png"
 	        }
 	    },
 	    {
@@ -2249,7 +2228,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RB07 Spirit of Forgotten Names.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RB07 Spirit of Forgotten Names.png"
 	        }
 	    },
 	    {
@@ -2258,7 +2237,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RU03 Ancient Depths.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RU03 Ancient Depths.png"
 	        }
 	    },
 	    {
@@ -2267,7 +2246,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RW02 Mammoth Valley.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RW02 Mammoth Valley.png"
 	        }
 	    },
 	    {
@@ -2276,7 +2255,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Legendary Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM01 Chort Secretary.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM01 Chort Secretary.png"
 	        }
 	    },
 	    {
@@ -2285,7 +2264,7 @@
 	        "mana_cost": "{3}{G}{U}",
 	        "type": "Legendary Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM01 Demon of Painful Restraint.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM01 Demon of Painful Restraint.png"
 	        }
 	    },
 	    {
@@ -2294,7 +2273,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM02 Season of Harvest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM02 Season of Harvest.png"
 	        }
 	    },
 	    {
@@ -2303,7 +2282,7 @@
 	        "mana_cost": "{2}{W}{U}",
 	        "type": "Creature — Horse Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RM91 Spectral Steed.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RM91 Spectral Steed.png"
 	        }
 	    },
 	    {
@@ -2312,7 +2291,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/MB01 Spirit of Blind Scorn.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/MB01 Spirit of Blind Scorn.png"
 	        }
 	    },
 	    {
@@ -2321,7 +2300,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RG08 Night of Ghastly Unrest.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RG08 Night of Ghastly Unrest.png"
 	        }
 	    },
 	    {
@@ -2330,7 +2309,7 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RR08 Witch-King Decree.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RR08 Witch-King Decree.png"
 	        }
 	    },
 	    {
@@ -2339,7 +2318,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RU08 Stare at the Mirror.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RU08 Stare at the Mirror.png"
 	        }
 	    },
 	    {
@@ -2348,7 +2327,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RW08 Banished from the Gates.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RW08 Banished from the Gates.png"
 	        }
 	    },
 	    {
@@ -2357,7 +2336,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Creature — Zombie Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/RB08 Samosek, Self Inflicted Blade.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/RB08 Samosek, Self Inflicted Blade.png"
 	        }
 	    },
 	    {
@@ -2366,7 +2345,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Legendary Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/MU02 Lady of Sorrows.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/MU02 Lady of Sorrows.png"
 	        }
 	    },
 	    {
@@ -2375,7 +2354,7 @@
 	        "mana_cost": "{3}{W}{B}",
 	        "type": "Legendary Creature — Cleric Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/Theo, Mass Manipulator.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/Theo, Mass Manipulator.png"
 	        }
 	    },
 	    {
@@ -2384,7 +2363,7 @@
 	        "mana_cost": "{2}{B}{B}{B}",
 	        "type": "Legendary Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/The Black Knight.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/The Black Knight.png"
 	        }
 	    },
 	    {
@@ -2393,7 +2372,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Legendary Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/Demon of Ominous Signs.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/Demon of Ominous Signs.png"
 	        }
 	    },
 	    {
@@ -2402,7 +2381,16 @@
 	        "mana_cost": "{2}{W}{U}",
 	        "type": "Planeswalker — Vronos ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv06C-files/MM01 Vronos, Revenant.png"
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/MM01 Vronos, Revenant.png"
+	        }
+	    },
+	    {
+	        "name": "UW06 Molar Raptor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Bird Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Ent3rSP/TOI/main/TOIv08C-files/UW06 Molar Raptor.png"
 	        }
 	    }
 	]
@@ -2492,7 +2480,6 @@
 		50 UW01 Wandering Faceless
 		50 UW04 Mass Justicar
 		50 UW05 Demon of Panicked Screaming
-		50 UW06 Molar Raptor
 		50 UW07 Spirit of Human Possession
 		50 UW08 Demon of Hollow Crypts
 		50 UW09 Walk Holy Ground
@@ -2577,6 +2564,7 @@
 		50 UA01 Idol of Hope
 		50 UA02 Wetstone Gargoyle
 		50 UA07 Deathbed
+		50 UW06 Molar Raptor
 	[CommonSlot(7)]
 		50 CW01 Doomed Passenger
 		50 CW02 Sister of the Mass
